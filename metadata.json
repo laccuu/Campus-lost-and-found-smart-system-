@@ -1,0 +1,6 @@
+{
+  "name": "Campus ClaimGuard",
+  "description": "Campus lost and found platform with question-based verification to prevent fraudulent claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
